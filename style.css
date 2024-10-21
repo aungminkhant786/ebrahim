@@ -1,0 +1,13 @@
+.heading {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+.intro {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 30px;
+    border: 10px;
+}
